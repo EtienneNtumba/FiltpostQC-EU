@@ -1,0 +1,17 @@
+# Build
+build/
+dist/
+*.egg-info/
+__pycache__/
+*.pyc
+*.pyo
+
+# Environnement virtuel local
+venv/
+.venv/
+env_postqc/
+venv_postqc/
+
+# OS/macOS
+.DS_Store
+

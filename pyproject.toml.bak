@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "postgwasqc"
+version = "0.1.0"
+description = "Post-GWAS QC tool for Regenie merged summary statistics"
+authors = [
+    { name="Etienne Kabongo", email="etienne@example.com" }
+]
+dependencies = ["pandas"]
+
+[project.scripts]
+postgwasqc = "postgwasqc.cli:main"
+
