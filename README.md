@@ -107,7 +107,7 @@ MIT License
 
 For feedback, bug reports, or feature requests, feel free to contact:
 
-* ✉️ Etienne Kabongo: `etienne@example.com`
+* ✉️ Etienne Kabongo: `etienne.kabongo@mcgill.ca`
 
 ---
 
